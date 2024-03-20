@@ -52,7 +52,7 @@
 
 **我研究这个玩意的目的就是因为帅，所以《玩》，毕竟核聚变的核心技术之一就是环形磁约束，在此的应用领域就是娱乐与艺术。如果到了这里你还看不懂的话，可以看下下面的原理介绍视频**
 
-视频介绍：[作死物理联动】人造天使光圈，“等离子环发生器”是什么原理？其实中学就学过！(中文字幕）](https://www.bilibili.com/video/BV1Cw4m1f7oA/)
+视频介绍：[作死物理联动 人造天使光圈，“等离子环发生器”是什么原理？其实中学就学过！(中文字幕）](https://www.bilibili.com/video/BV1Cw4m1f7oA/)
 
 ## 电路部分
 
@@ -61,10 +61,13 @@
 
 ![Alt text](pic/61dd181898df9f6ff927fba2795a3a20.png)
 
-在油管上找到了原作者的笔记记录，大致如下：
+在油管上找到了原作者的笔记记录，链接放在这了：[笔记链接](https://docs.google.com/document/d/1AyaO-RaTiaOmyT3-89UxPdrMHEBCCrxb1irZKsVMg_8/edit)
+大致如下：
 
 ![Alt text](pic/image.png)
 ![Alt text](pic/image2.png)
+![Alt text](pic/image4.png)
 
-还有的方案做了个特斯拉装置，除去了次级感应线圈，取而代之的是THE BALL。
+还有的方案做了个特斯拉装置，除去了次级感应线圈，取而代之的是THE BALL,也就是视频中的方案。
 ![Alt text](pic/image3.png)
+![Alt text](pic/image5.png)
